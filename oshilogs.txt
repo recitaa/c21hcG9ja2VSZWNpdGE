@@ -12,72 +12,56 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Recita =====
-[1]Recita      |17:29:44 | 12-10-2026| login OK @recitamarini | score=980 rank=6292
-[1]Recita      |17:29:44 | 12-10-2026| serverTime=2026-10-12T17:29:44.000Z local=2026-10-12T17:29:44.692Z
+[1]Recita      |15:39:54 | 13-10-2026| login OK @recitamarini | score=1100 rank=5568
+[1]Recita      |15:39:54 | 13-10-2026| serverTime=2026-10-13T15:39:54.000Z local=2026-10-13T15:39:54.322Z
 --> [1]Recita menjalankan: Claim Daily
-[1]Recita      |17:29:45 | 12-10-2026| daily: OK +10 poin score=990
---> [1]Recita menjalankan: Auto All Tasks (10 pending)
-[1]Recita      |17:29:47 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2109697773453507826
-[1]Recita      |17:29:47 | 12-10-2026| delay 10s...
-[1]Recita      |17:30:00 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2109697689302532824
-[1]Recita      |17:30:00 | 12-10-2026| delay 10s...
-[1]Recita      |17:30:12 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2109697684288179862
-[1]Recita      |17:30:12 | 12-10-2026| delay 10s...
-[1]Recita      |17:30:25 | 12-10-2026| [4/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2109697761088823622
-[1]Recita      |17:30:25 | 12-10-2026| delay 10s...
-[1]Recita      |17:30:38 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Recita      |17:30:38 | 12-10-2026| delay 10s...
-[1]Recita      |17:30:50 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2109697867390358177
-[1]Recita      |17:30:50 | 12-10-2026| delay 10s...
-[1]Recita      |17:31:02 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2109698066686431792
-[1]Recita      |17:31:02 | 12-10-2026| delay 10s...
-[1]Recita      |17:31:15 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2109697928699782319
-[1]Recita      |17:31:15 | 12-10-2026| delay 10s...
-[1]Recita      |17:31:28 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2109697897539364365
-[1]Recita      |17:31:28 | 12-10-2026| delay 10s...
-[1]Recita      |17:31:40 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Recita      |17:31:40 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Recita      |17:31:42 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/recitamarini/status/2109698162298089877
+[1]Recita      |15:39:55 | 13-10-2026| daily: OK +10 poin score=1110
+--> [1]Recita menjalankan: Auto All Tasks (5 pending)
+[1]Recita      |15:39:57 | 13-10-2026| [1/5] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2110032331565997652
+[1]Recita      |15:39:57 | 13-10-2026| delay 10s...
+[1]Recita      |15:40:09 | 13-10-2026| [2/5] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2110032301171808620
+[1]Recita      |15:40:09 | 13-10-2026| delay 10s...
+[1]Recita      |15:40:22 | 13-10-2026| [3/5] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2110032470756704337
+[1]Recita      |15:40:22 | 13-10-2026| delay 10s...
+[1]Recita      |15:40:34 | 13-10-2026| [4/5] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/recitamarini/status/2110032442123473930
+[1]Recita      |15:40:34 | 13-10-2026| delay 10s...
+[1]Recita      |15:40:46 | 13-10-2026| [5/5] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Recita      |15:40:46 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Recita      |15:40:48 | 13-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/recitamarini/status/2110032453954559489
 --> [1]Recita menjalankan: Watch Anime
-[1]Recita      |17:31:43 | 12-10-2026| watch: 1 video belum completed: ep2
-[1]Recita      |17:31:43 | 12-10-2026| watch [1/1] farming ep2...
-[1]Recita      |17:31:44 | 12-10-2026| watch ep2: mulai dari 0 (record 365.0s diabaikan)
-[1]Recita      |17:31:45 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:31:51 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:31:58 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:32:04 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:32:11 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:32:17 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:32:23 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:32:30 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:32:38 | 12-10-2026| watch ep2: 89% (365.02/406.00s)
-[1]Recita      |17:32:44 | 12-10-2026| watch ep2: 90% (366.71/406.00s)
-[1]Recita      |17:32:44 | 12-10-2026| watch ep2: COMPLETED (366.71/406.00s)
+[1]Recita      |15:40:48 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Recita      |15:40:48 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Recita      |15:40:53 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Recita      |15:40:58 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Recita      |15:41:01 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Recita      |15:41:06 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Recita      |15:41:08 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Recita menjalankan: Read Article
-[1]Recita      |17:32:45 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Recita      |17:32:46 | 12-10-2026| mint eligibility: {"userId":"2010504810920103936","youtube":{"url":"https://www.youtube.com/@recitamarini","status":"submitted","revision":"df08cfbb-23e1-4847-8400-86bd21cb368a","submittedAt":1791683676,"reviewedAt":17
-[1]Recita      |17:32:46 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Recita      |15:41:10 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Recita      |15:41:12 | 13-10-2026| mint eligibility: {"userId":"2010504810920103936","youtube":{"url":"https://www.youtube.com/@recitamarini","status":"submitted","revision":"df08cfbb-23e1-4847-8400-86bd21cb368a","submittedAt":1791683676,"reviewedAt":17
+[1]Recita      |15:41:12 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Recita menjalankan: Quiz Anime
-[1]Recita      |17:32:47 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Recita      |17:32:49 | 12-10-2026| quiz ep2: BENAR (1) +10 poin
-[1]Recita      |17:32:52 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Recita      |17:32:52 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Recita      |17:32:52 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Recita      |17:32:52 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Recita      |15:41:13 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Recita      |15:41:13 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Recita      |15:41:13 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Recita      |15:41:13 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Recita      |15:41:13 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Recita      |15:41:13 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Recita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Recita      |17:32:54 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Recita      |17:32:55 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Recita      |17:32:55 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Recita      |17:32:55 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Recita      |15:41:15 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Recita      |15:41:16 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Recita      |15:41:16 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Recita      |15:41:16 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Recita menjalankan: Claim Missions
-[1]Recita      |17:32:55 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Recita      |17:32:55 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Recita      |17:32:55 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Recita      |15:41:16 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Recita      |15:41:16 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Recita      |15:41:16 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Recita menjalankan: Check Eligibility
 
 --- eligibility [1]Recita ---
-  @recitamarini | score=980 rank=6292
-  tasks    [##################--] 70/80
+  @recitamarini | score=1100 rank=5568
+  tasks    [###################-] 75/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -85,17 +69,18 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=true mintOpen=false discord=true
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Recita menjalankan: Read Manga
-[1]Recita      |17:33:01 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Recita      |15:41:22 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Recita menjalankan: Get Gift
-[1]Recita      |17:33:01 | 12-10-2026| gift: 0/3 belum diterima
+[1]Recita      |15:41:23 | 13-10-2026| gift: 1/4 belum diterima
+[1]Recita      |15:41:25 | 13-10-2026| gift [1/1] Silver Oshii: OK
 --> [1]Recita menjalankan: Setup Profile
-[1]Recita      |17:33:02 | 12-10-2026| profile: bio="https://x.com/recitamarini" fav=kagura rewardAt=1791694632
-[1]Recita      |17:33:02 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Recita      |15:41:28 | 13-10-2026| profile: bio="https://x.com/recitamarini" fav=kagura rewardAt=1791694632
+[1]Recita      |15:41:28 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Recita menjalankan: Bind Wallet
-[1]Recita      |17:33:03 | 12-10-2026| wallet: sudah terikat CrGmdXLusZ... (solana)
+[1]Recita      |15:41:29 | 13-10-2026| wallet: sudah terikat CrGmdXLusZ... (solana)
 
 == RINGKASAN ==
-- Recita: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Recita: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
