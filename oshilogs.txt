@@ -12,88 +12,168 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Recita =====
-[1]Recita      |05:41:22 | 20-10-2026| login OK @recitamarini | score=1490 rank=4736
-[1]Recita      |05:41:22 | 20-10-2026| serverTime=2026-10-20T05:41:22.000Z local=2026-10-20T05:41:22.264Z
+[1]Recita      |06:57:53 | 22-10-2026| login OK @recitamarini | score=1610 rank=4483
+[1]Recita      |06:57:53 | 22-10-2026| serverTime=2026-10-22T06:57:53.000Z local=2026-10-22T06:57:53.259Z
 --> [1]Recita menjalankan: Claim Daily
-[1]Recita      |05:41:23 | 20-10-2026| daily: OK +10 poin score=1500
+[1]Recita      |06:57:54 | 22-10-2026| daily: OK +10 poin score=1620
 --> [1]Recita menjalankan: Auto All Tasks (11 pending)
-[1]Recita      |05:41:25 | 20-10-2026| [1/11] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418282295097788
-[1]Recita      |05:41:25 | 20-10-2026| delay 10s...
-[1]Recita      |05:41:37 | 20-10-2026| [2/11] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418355136833927
-[1]Recita      |05:41:37 | 20-10-2026| delay 10s...
-[1]Recita      |05:41:49 | 20-10-2026| [3/11] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418549566181718
-[1]Recita      |05:41:49 | 20-10-2026| delay 10s...
-[1]Recita      |05:42:02 | 20-10-2026| [4/11] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418527307108295
-[1]Recita      |05:42:02 | 20-10-2026| delay 10s...
-[1]Recita      |05:42:13 | 20-10-2026| [5/11] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418671524900240
-[1]Recita      |05:42:13 | 20-10-2026| delay 10s...
-[1]Recita      |05:42:26 | 20-10-2026| [6/11] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418741889480444
-[1]Recita      |05:42:26 | 20-10-2026| delay 10s...
-[1]Recita      |05:42:38 | 20-10-2026| [7/11] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418815203806722
-[1]Recita      |05:42:38 | 20-10-2026| delay 10s...
-[1]Recita      |05:42:49 | 20-10-2026| [8/11] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418931799603844
-[1]Recita      |05:42:49 | 20-10-2026| delay 10s...
-[1]Recita      |05:43:03 | 20-10-2026| [9/11] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418737889008650
-[1]Recita      |05:43:03 | 20-10-2026| delay 10s...
-[1]Recita      |05:43:15 | 20-10-2026| [10/11] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112418877891550524
-[1]Recita      |05:43:15 | 20-10-2026| delay 10s...
-[1]Recita      |05:43:27 | 20-10-2026| [11/11] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/recitamarini/status/2112419032060352548
-[1]Recita      |05:43:27 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Recita      |05:43:28 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/recitamarini/status/2112418864443828336
+[1]Recita      |06:57:55 | 22-10-2026| [1/11] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162318020395583
+[1]Recita      |06:57:55 | 22-10-2026| delay 10s...
+[1]Recita      |06:58:08 | 22-10-2026| [2/11] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162588868566232
+[1]Recita      |06:58:08 | 22-10-2026| delay 10s...
+[1]Recita      |06:58:21 | 22-10-2026| [3/11] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162394326173807
+[1]Recita      |06:58:21 | 22-10-2026| delay 10s...
+[1]Recita      |06:58:33 | 22-10-2026| [4/11] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162702718286584
+[1]Recita      |06:58:33 | 22-10-2026| delay 10s...
+[1]Recita      |06:58:44 | 22-10-2026| [5/11] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162721616606159
+[1]Recita      |06:58:44 | 22-10-2026| delay 10s...
+[1]Recita      |06:58:56 | 22-10-2026| [6/11] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162581482893103
+[1]Recita      |06:58:56 | 22-10-2026| delay 10s...
+[1]Recita      |06:59:08 | 22-10-2026| [7/11] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162949819849908
+[1]Recita      |06:59:08 | 22-10-2026| delay 10s...
+[1]Recita      |06:59:21 | 22-10-2026| [8/11] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162652134943269
+[1]Recita      |06:59:21 | 22-10-2026| delay 10s...
+[1]Recita      |06:59:33 | 22-10-2026| [9/11] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113163030418747010
+[1]Recita      |06:59:33 | 22-10-2026| delay 10s...
+[1]Recita      |06:59:44 | 22-10-2026| [10/11] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/recitamarini/status/2113162745072667047
+[1]Recita      |06:59:44 | 22-10-2026| delay 10s...
+[1]Recita      |06:59:56 | 22-10-2026| [11/11] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
+[1]Recita      |06:59:56 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Recita      |06:59:57 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/recitamarini/status/2113162997188719282
 --> [1]Recita menjalankan: Watch Anime
-[1]Recita      |05:43:29 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Recita      |05:43:29 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Recita      |05:43:31 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Recita      |05:43:36 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Recita      |05:43:38 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Recita      |05:43:43 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Recita      |05:43:44 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Recita      |05:43:49 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Recita      |05:43:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Recita      |06:59:58 | 22-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Recita      |06:59:58 | 22-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Recita      |07:00:00 | 22-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Recita      |07:00:06 | 22-10-2026| watch oshi-captains-hat: 6% (5.98/92.00s)
+[1]Recita      |07:00:13 | 22-10-2026| watch oshi-captains-hat: 12% (11.70/92.00s)
+[1]Recita      |07:00:19 | 22-10-2026| watch oshi-captains-hat: 19% (17.49/92.00s)
+[1]Recita      |07:00:25 | 22-10-2026| watch oshi-captains-hat: 25% (23.11/92.00s)
+[1]Recita      |07:00:31 | 22-10-2026| watch oshi-captains-hat: 30% (28.45/92.00s)
+[1]Recita      |07:00:37 | 22-10-2026| watch oshi-captains-hat: 36% (33.75/92.00s)
+[1]Recita      |07:00:43 | 22-10-2026| watch oshi-captains-hat: 42% (39.09/92.00s)
+[1]Recita      |07:00:49 | 22-10-2026| watch oshi-captains-hat: 48% (44.40/92.00s)
+[1]Recita      |07:00:54 | 22-10-2026| watch oshi-captains-hat: 53% (49.67/92.00s)
+[1]Recita      |07:01:00 | 22-10-2026| watch oshi-captains-hat: 59% (54.93/92.00s)
+[1]Recita      |07:01:06 | 22-10-2026| watch oshi-captains-hat: 65% (60.25/92.00s)
+[1]Recita      |07:01:12 | 22-10-2026| watch oshi-captains-hat: 71% (65.72/92.00s)
+[1]Recita      |07:01:18 | 22-10-2026| watch oshi-captains-hat: 77% (71.19/92.00s)
+[1]Recita      |07:01:25 | 22-10-2026| watch oshi-captains-hat: 83% (76.56/92.00s)
+[1]Recita      |07:01:31 | 22-10-2026| watch oshi-captains-hat: 89% (82.49/92.00s)
+[1]Recita      |07:01:37 | 22-10-2026| watch oshi-captains-hat: 95% (87.96/92.00s)
+[1]Recita      |07:01:37 | 22-10-2026| watch oshi-captains-hat: COMPLETED (87.96/92.00s)
+[1]Recita      |07:01:42 | 22-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Recita      |07:01:44 | 22-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Recita      |07:01:50 | 22-10-2026| watch oshi-rainbow-star: 5% (5.12/86.00s)
+[1]Recita      |07:01:56 | 22-10-2026| watch oshi-rainbow-star: 12% (11.05/86.00s)
+[1]Recita      |07:02:02 | 22-10-2026| watch oshi-rainbow-star: 19% (16.42/86.00s)
+[1]Recita      |07:02:08 | 22-10-2026| watch oshi-rainbow-star: 25% (21.92/86.00s)
+[1]Recita      |07:02:14 | 22-10-2026| watch oshi-rainbow-star: 31% (27.41/86.00s)
+[1]Recita      |07:02:20 | 22-10-2026| watch oshi-rainbow-star: 38% (32.82/86.00s)
+[1]Recita      |07:02:27 | 22-10-2026| watch oshi-rainbow-star: 44% (38.07/86.00s)
+[1]Recita      |07:02:33 | 22-10-2026| watch oshi-rainbow-star: 51% (43.94/86.00s)
+[1]Recita      |07:02:39 | 22-10-2026| watch oshi-rainbow-star: 57% (49.29/86.00s)
+[1]Recita      |07:02:45 | 22-10-2026| watch oshi-rainbow-star: 63% (54.87/86.00s)
+[1]Recita      |07:02:51 | 22-10-2026| watch oshi-rainbow-star: 70% (60.20/86.00s)
+[1]Recita      |07:02:58 | 22-10-2026| watch oshi-rainbow-star: 76% (65.57/86.00s)
+[1]Recita      |07:03:03 | 22-10-2026| watch oshi-rainbow-star: 83% (71.56/86.00s)
+[1]Recita      |07:03:10 | 22-10-2026| watch oshi-rainbow-star: 89% (76.94/86.00s)
+[1]Recita      |07:03:16 | 22-10-2026| watch oshi-rainbow-star: 95% (82.53/86.00s)
+[1]Recita      |07:03:16 | 22-10-2026| watch oshi-rainbow-star: COMPLETED (82.53/86.00s)
+[1]Recita      |07:03:21 | 22-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Recita      |07:03:25 | 22-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Recita      |07:03:31 | 22-10-2026| watch oshi-rainbow-lighthouse: 5% (5.11/87.00s)
+[1]Recita      |07:03:37 | 22-10-2026| watch oshi-rainbow-lighthouse: 11% (10.40/87.00s)
+[1]Recita      |07:03:43 | 22-10-2026| watch oshi-rainbow-lighthouse: 18% (15.71/87.00s)
+[1]Recita      |07:03:50 | 22-10-2026| watch oshi-rainbow-lighthouse: 24% (21.12/87.00s)
+[1]Recita      |07:03:55 | 22-10-2026| watch oshi-rainbow-lighthouse: 30% (26.91/87.00s)
+[1]Recita      |07:04:01 | 22-10-2026| watch oshi-rainbow-lighthouse: 36% (32.18/87.00s)
+[1]Recita      |07:04:07 | 22-10-2026| watch oshi-rainbow-lighthouse: 43% (37.59/87.00s)
+[1]Recita      |07:04:14 | 22-10-2026| watch oshi-rainbow-lighthouse: 49% (42.91/87.00s)
+[1]Recita      |07:04:20 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.70/87.00s)
+[1]Recita      |07:04:26 | 22-10-2026| watch oshi-rainbow-lighthouse: 62% (54.26/87.00s)
+[1]Recita      |07:04:32 | 22-10-2026| watch oshi-rainbow-lighthouse: 68% (59.50/87.00s)
+[1]Recita      |07:04:38 | 22-10-2026| watch oshi-rainbow-lighthouse: 74% (65.23/87.00s)
+[1]Recita      |07:04:44 | 22-10-2026| watch oshi-rainbow-lighthouse: 81% (70.47/87.00s)
+[1]Recita      |07:04:50 | 22-10-2026| watch oshi-rainbow-lighthouse: 87% (75.82/87.00s)
+[1]Recita      |07:04:56 | 22-10-2026| watch oshi-rainbow-lighthouse: 93% (81.05/87.00s)
+[1]Recita      |07:04:56 | 22-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.05/87.00s)
+[1]Recita      |07:05:01 | 22-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Recita      |07:05:02 | 22-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Recita      |07:05:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.26/181.00s)
+[1]Recita      |07:05:15 | 22-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.09/181.00s)
+[1]Recita      |07:05:20 | 22-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.51/181.00s)
+[1]Recita      |07:05:26 | 22-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.76/181.00s)
+[1]Recita      |07:05:33 | 22-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.16/181.00s)
+[1]Recita      |07:05:38 | 22-10-2026| watch bakeru-ikesou-jan-mv: 18% (32.68/181.00s)
+[1]Recita      |07:05:44 | 22-10-2026| watch bakeru-ikesou-jan-mv: 20% (37.95/181.00s)
+[1]Recita      |07:05:50 | 22-10-2026| watch bakeru-ikesou-jan-mv: 23% (43.25/181.00s)
+[1]Recita      |07:05:56 | 22-10-2026| watch bakeru-ikesou-jan-mv: 26% (48.82/181.00s)
+[1]Recita      |07:06:03 | 22-10-2026| watch bakeru-ikesou-jan-mv: 29% (54.06/181.00s)
+[1]Recita      |07:06:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 33% (59.96/181.00s)
+[1]Recita      |07:06:15 | 22-10-2026| watch bakeru-ikesou-jan-mv: 36% (65.25/181.00s)
+[1]Recita      |07:06:21 | 22-10-2026| watch bakeru-ikesou-jan-mv: 39% (70.75/181.00s)
+[1]Recita      |07:06:27 | 22-10-2026| watch bakeru-ikesou-jan-mv: 41% (76.01/181.00s)
+[1]Recita      |07:06:33 | 22-10-2026| watch bakeru-ikesou-jan-mv: 44% (81.29/181.00s)
+[1]Recita      |07:06:39 | 22-10-2026| watch bakeru-ikesou-jan-mv: 47% (86.73/181.00s)
+[1]Recita      |07:06:45 | 22-10-2026| watch bakeru-ikesou-jan-mv: 51% (92.37/181.00s)
+[1]Recita      |07:06:51 | 22-10-2026| watch bakeru-ikesou-jan-mv: 53% (97.65/181.00s)
+[1]Recita      |07:06:57 | 22-10-2026| watch bakeru-ikesou-jan-mv: 56% (102.92/181.00s)
+[1]Recita      |07:07:03 | 22-10-2026| watch bakeru-ikesou-jan-mv: 59% (108.37/181.00s)
+[1]Recita      |07:07:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 62% (113.86/181.00s)
+[1]Recita      |07:07:14 | 22-10-2026| watch bakeru-ikesou-jan-mv: 65% (119.17/181.00s)
+[1]Recita      |07:07:21 | 22-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.45/181.00s)
+[1]Recita      |07:07:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: 72% (130.61/181.00s)
+[1]Recita      |07:07:34 | 22-10-2026| watch bakeru-ikesou-jan-mv: 75% (136.47/181.00s)
+[1]Recita      |07:07:40 | 22-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.87/181.00s)
+[1]Recita      |07:07:46 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.14/181.00s)
+[1]Recita      |07:07:52 | 22-10-2026| watch bakeru-ikesou-jan-mv: 84% (153.08/181.00s)
+[1]Recita      |07:07:58 | 22-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.52/181.00s)
+[1]Recita      |07:08:04 | 22-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.85/181.00s)
+[1]Recita      |07:08:04 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.85/181.00s)
 --> [1]Recita menjalankan: Read Article
-[1]Recita      |05:43:52 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Recita      |05:43:53 | 20-10-2026| mint eligibility: {"userId":"2010504810920103936","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@recitamarini","status":"submitted","revision":"df08cfbb-23e1-4847-8400-86bd21cb3
-[1]Recita      |05:43:53 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Recita      |07:08:05 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Recita      |07:08:06 | 22-10-2026| mint eligibility: {"userId":"2010504810920103936","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@recitamarini","status":"submitted","revision":"df08cfbb-23e1-4847-8400-86bd21cb3
+[1]Recita      |07:08:11 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Recita      |07:08:19 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Recita menjalankan: Quiz Anime
-[1]Recita      |05:43:53 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Recita      |05:43:53 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Recita      |05:43:53 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Recita      |05:43:53 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Recita      |05:43:53 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Recita      |05:43:53 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Recita      |07:08:22 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Recita      |07:08:22 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Recita      |07:08:22 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Recita      |07:08:22 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Recita      |07:08:22 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Recita      |07:08:22 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Recita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Recita      |05:43:55 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Recita      |05:43:56 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Recita      |05:43:56 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Recita      |05:43:56 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Recita      |07:08:24 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Recita      |07:08:24 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Recita      |07:08:24 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Recita      |07:08:24 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Recita menjalankan: Claim Missions
-[1]Recita      |05:43:56 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Recita      |05:43:56 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Recita      |05:43:56 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Recita      |07:08:25 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Recita      |07:08:25 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Recita      |07:08:25 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Recita menjalankan: Check Eligibility
 
 --- eligibility [1]Recita ---
-  @recitamarini | score=1490 rank=4736
-  tasks    [#################---] 71/82
+  @recitamarini | score=1610 rank=4483
+  tasks    [#################---] 73/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Recita menjalankan: Read Manga
-[1]Recita      |05:44:00 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Recita      |07:08:28 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Recita menjalankan: Get Gift
-[1]Recita      |05:44:00 | 20-10-2026| gift: 0/4 belum diterima
+[1]Recita      |07:08:28 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Recita menjalankan: Setup Profile
-[1]Recita      |05:44:01 | 20-10-2026| profile: bio="https://x.com/recitamarini" fav=kagura rewardAt=1791694632
-[1]Recita      |05:44:01 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Recita      |07:08:29 | 22-10-2026| profile: bio="https://x.com/recitamarini" fav=kagura rewardAt=1791694632
+[1]Recita      |07:08:29 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Recita menjalankan: Bind Wallet
-[1]Recita      |05:44:01 | 20-10-2026| wallet: sudah terikat CrGmdXLusZ... (solana)
+[1]Recita      |07:08:29 | 22-10-2026| wallet: sudah terikat CrGmdXLusZ... (solana)
 
 == RINGKASAN ==
-- Recita: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Recita: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
